@@ -62,7 +62,7 @@ select {
     font-size: 16px;
     font-weight: 400;
     appearance: none;
-    background-image: url(/images/ep_arrow-down.svg);
+    background-image: url(images/ep_arrow-down.svg);
     background-repeat: no-repeat;
     background-position: right 12px top 50%;
     /* Стили для выпадающего списка */
@@ -143,7 +143,7 @@ footer {
 }
 
 .footer-link {
-    font-size: 15px;
+    font-size: 14px;
     color: #2965f1;
     text-decoration: none;
     /* Стили для футера */

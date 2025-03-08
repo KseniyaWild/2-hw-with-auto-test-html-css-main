@@ -62,7 +62,7 @@ select {
     font-size: 16px;
     font-weight: 400;
     appearance: none;
-    background-image: url(./images/ep_arrow-down.svg);
+    background-image: url(../images/ep_arrow-down.svg);
     background-repeat: no-repeat;
     background-position: right 12px top 50%;
     /* Стили для выпадающего списка */
